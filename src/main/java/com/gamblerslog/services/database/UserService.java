@@ -1,7 +1,7 @@
 package com.gamblerslog.services.database;
 
 import com.gamblerslog.interfaces.UserRepository;
-import com.gamblerslog.models.database.User;
+import com.gamblerslog.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

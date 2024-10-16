@@ -1,4 +1,4 @@
-package com.gamblerslog.models.database;
+package com.gamblerslog.models;
 
 
 import jakarta.persistence.*;

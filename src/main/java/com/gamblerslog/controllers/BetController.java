@@ -1,8 +1,8 @@
 package com.gamblerslog.controllers;
 
 import com.gamblerslog.models.Bet;
-import com.gamblerslog.models.database.User;
-import com.gamblerslog.services.BetCreationService;
+import com.gamblerslog.models.User;
+import com.gamblerslog.services.database.BetCreationService;
 import com.gamblerslog.services.database.UserService;
 import org.springframework.web.bind.annotation.*;
 

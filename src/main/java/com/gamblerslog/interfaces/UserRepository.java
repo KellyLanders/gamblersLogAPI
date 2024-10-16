@@ -1,6 +1,6 @@
 package com.gamblerslog.interfaces;
 
-import com.gamblerslog.models.database.User;
+import com.gamblerslog.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
